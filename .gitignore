@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.eggs/
+
+# Node modules
+node_modules/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# 系统文件
+Thumbs.db
+.DS_Store
+Desktop.ini
+
+# 学习笔记（不上传）
+LEARNING/
+
+# 简历（不上传）
+RESUME/
+
+# 旧版文件
+PROJECTS/project_ecommerce_analysis/flawed_analysis.py
+
+# Olist 大数据文件（不上传）
+PROJECTS/05_Olist_Bad_Review_Analysis/data/olist*.csv
+PROJECTS/05_Olist_Bad_Review_Analysis/data/olist.db
+PROJECTS/05_Olist_Bad_Review_Analysis/data/product_category_name_translation.csv
+
+# 临时脚本
+_*.py
+_*.txt
+_temp_*
+
+# IDE
+.vscode/
+.idea/
+
+# 虚拟环境
+venv/
+env/
