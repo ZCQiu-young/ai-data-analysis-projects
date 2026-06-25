@@ -1,0 +1,5 @@
+metric,value,format
+总订单数,96478,number
+差评率,12.7,percent
+延迟率,7.6,percent
+平均评分,4.16,decimal
